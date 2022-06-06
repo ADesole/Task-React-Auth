@@ -53,7 +53,7 @@ class ProductStore {
 }
 
 const productStore = new ProductStore();
-productStore.fetchProducts();
+// productStore.fetchProducts();
 // It will only call this function when the app first starts
 
 export default productStore;
